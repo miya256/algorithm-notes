@@ -18,3 +18,18 @@ $$
 \sum_{i=1}^n\left\lfloor\frac{n}{i}\right\rfloor
 $$
 これを求められる。
+
+実は、
+$$
+\sum_{i=1}^{n} \left\lfloor \frac{n}{i} \right\rfloor=
+2 \sum_{i^2 \le n} \left\lfloor \frac{n}{i} \right\rfloor-
+\left\lfloor \sqrt{n} \right\rfloor^2
+$$
+なので、総和だけなら
+```python
+rn = math.isqrt(n) # 内部で小数を使ってないので誤差なし
+ans = 0
+for i in range(1, rn + 1):
+    ans += n // i
+ans = 2 * ans - rn * rn
+```
