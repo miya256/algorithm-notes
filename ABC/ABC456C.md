@@ -4,6 +4,6 @@ tags:
 ---
 [C - Not Adjacent](https://atcoder.jp/contests/abc456/tasks/abc456_c)
 
-[[しゃく]]
+[[尺取り法]]
 
 ---
