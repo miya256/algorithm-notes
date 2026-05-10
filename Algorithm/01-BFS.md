@@ -10,5 +10,3 @@ $$O(N+M)$$
 - 唯一の違いは、隣接頂点をqueueに入れるときのみ、重みが0なら左側にいれる
 
 [実装 : bfs01.py](https://github.com/miya256/atcoder_lib_py/blob/main/library/graph/search/bfs01.py)
-
-[[BFS]]

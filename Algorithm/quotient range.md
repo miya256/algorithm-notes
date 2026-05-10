@@ -1,3 +1,8 @@
+---
+tags:
+  - floor
+---
+---
 ## 概要
 $$
 \left\lfloor\frac{n}{i}\right\rfloor = k
