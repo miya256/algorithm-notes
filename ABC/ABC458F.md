@@ -1,0 +1,1 @@
+aho corasickを勉強しましょう
