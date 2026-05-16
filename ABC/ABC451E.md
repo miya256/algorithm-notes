@@ -4,6 +4,8 @@ tags:
 ---
 [E - Tree Distance](https://atcoder.jp/contests/abc451/tasks/abc451_e)
 
+[[最小全域木]]
+
 ---
 aを昇順にみて、最小全域木をつくって、それの各頂点同士の距離が等しいか確かめるだけ
 
