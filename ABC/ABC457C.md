@@ -4,6 +4,8 @@ tags:
 ---
 [C - Long Sequence](https://atcoder.jp/contests/abc457/tasks/abc457_c)
 
+[[周期性のある列のK番目]]
+
 ---
 - **kを0-indexedにする**
 - $i$ 番目のかたまりの長さ $l_i×c_i$ が、$l_i×c_i\le k$ だったらそのかたまりに含まれないので引く

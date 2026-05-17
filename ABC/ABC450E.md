@@ -6,6 +6,8 @@ tags:
 ---
 [E - Fibonacci String](https://atcoder.jp/contests/abc450/tasks/abc450_e)
 
+[[再帰列のK番目]]
+
 ---
 10^18 ってでかいけど、i-1番目がi番目のprefixになっているので、実際にはS_60 程度
 

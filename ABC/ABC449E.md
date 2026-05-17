@@ -4,6 +4,8 @@ tags:
 ---
 [E - A += v](https://atcoder.jp/contests/abc449/tasks/abc449_e)
 
+[[周期性のある列のK番目]]
+
 ---
 同じ回数のやつをまとめたい気がするが、sortしとけばwhile文でどうとでもなる。
 ```python
