@@ -5,6 +5,8 @@ tags:
 ---
 [F - Merge Slimes 2](https://atcoder.jp/contests/abc455/tasks/abc455_f)
 
+[[遅延セグメント木]]
+
 ---
 とりあえず、手元で計算してみると、マージ順は関係ないことがわかります。
 サイズ $a,b,c$ とすると、

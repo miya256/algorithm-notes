@@ -5,6 +5,9 @@ tags:
 ---
 [F - Make Bipartite 3](https://atcoder.jp/contests/abc451/tasks/abc451_f)
 
+[[二部グラフ]]
+[[マージテク]]
+
 ---
 ## 黒のほうが少ないと言われても、白黒関係なし
 0の個数、1の個数をそれぞれもっておいて、少ないほうが黒ですっていえばOK 

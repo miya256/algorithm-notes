@@ -5,6 +5,9 @@ tags:
 ---
 [D - Go Straight](https://atcoder.jp/contests/abc453/tasks/abc453_d)
 
+[[頂点倍化]]
+[[高速化]]
+
 ---
 ## 注意点
 てきとうにかくとTLEする

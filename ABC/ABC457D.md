@@ -6,5 +6,7 @@ tags:
 ---
 [D - Raise Minimum](https://atcoder.jp/contests/abc457/tasks/abc457_d)
 
+[[二分探索]]
+
 ---
 「すべてx以上にしたとき、k回以下で済むか」を条件に二分探索

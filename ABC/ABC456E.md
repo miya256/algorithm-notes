@@ -5,6 +5,9 @@ tags:
 ---
 [E - Endless Holidays](https://atcoder.jp/contests/abc456/tasks/abc456_e)
 
+[[頂点倍化]]
+[[サイクル検出]]
+
 ---
 $i$ 曜日に頂点 $v$ にいるというのを１つの点とみなせば、$NW$ 点のグラフになる。
 
