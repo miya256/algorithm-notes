@@ -5,6 +5,7 @@ tags:
 [E - Team Division](https://atcoder.jp/contests/abc453/tasks/abc453_e)
 
 [[区間の包含関係]]
+[[imos法]]
 
 ---
 一人でもダメな人がいたらだめ

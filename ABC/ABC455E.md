@@ -5,6 +5,7 @@ tags:
 [E - Unbalanced ABC Substrings](https://atcoder.jp/contests/abc455/tasks/abc455_e)
 
 [[包除原理]]
+[[式変形して添え字をそろえる]]
 
 ---
 出現回数が等しいやつを数えよう
