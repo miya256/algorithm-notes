@@ -4,6 +4,8 @@ tags:
 ---
 [E - Team Division](https://atcoder.jp/contests/abc453/tasks/abc453_e)
 
+[[区間の包含関係]]
+
 ---
 一人でもダメな人がいたらだめ
 

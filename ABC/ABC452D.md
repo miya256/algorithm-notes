@@ -1,8 +1,11 @@
 ---
 tags:
   - 二分探索
+  - 左端を固定
 ---
 [D - No-Subsequence Substring](https://atcoder.jp/contests/abc452/tasks/abc452_d)
+
+[[左端を固定]]
 
 ---
 lを固定して、最初にTが部分列として含まれるようになるrの位置を求める。
