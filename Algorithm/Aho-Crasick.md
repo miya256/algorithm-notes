@@ -11,4 +11,18 @@ $N$ 個のキーワード $S_k(0\le k\le N-1)$ があったとして、文字列
 ## 方法
 abbc, bb, bc
 
-- root
+### 初期化
+- root.fail = root
+- root.a.fail = root
+- root.b.fail = root
+- a,bがキューに入る
+## while dq
+- ab.fail = a.fail(=root) -> b
+- a\[c] = root\[c](=root)
+
+- bb.fail = b.fail(=root) -> b
+- bc.fail = b.fail(=root) -> c(はないのでroot)
+- b\[a] = root\[a](=a)
+
+- abb.fail = ab.fail(=b) -> b
+- 
