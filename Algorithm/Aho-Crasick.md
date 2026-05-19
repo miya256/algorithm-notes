@@ -25,4 +25,9 @@ abbc, bb, bc
 - b\[a] = root\[a](=a)
 
 - abb.fail = ab.fail(=b) -> b
-- 
+
+u, p, c = pop()
+u.fail = p.fail\[c]
+for c in range:
+	if c not in u.ch:
+		g\[u]\[c] = u.fail -> c
