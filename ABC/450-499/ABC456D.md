@@ -5,6 +5,8 @@ tags:
 ---
 [D - Not Adjacent 2](https://atcoder.jp/contests/abc456/tasks/abc456_d)
 
+[[カテゴリー未定]]
+
 ---
 
 - 文字は数字の配列に変換しておくといい
