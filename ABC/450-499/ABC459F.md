@@ -1,8 +1,12 @@
 ---
 tags:
   - 不変量
+  - 狭義単調
+  - 広義単調
 ---
 [F - -1, +1](https://atcoder.jp/contests/abc459/tasks/abc459_f)
+
+[[カテゴリー未定]]
 
 ---
 ## 広義単調に
