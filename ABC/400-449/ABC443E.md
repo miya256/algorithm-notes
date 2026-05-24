@@ -1,9 +1,10 @@
 ---
 tags:
+  - DP
 ---
 [E - Climbing Silver](https://atcoder.jp/contests/abc443/tasks/abc443_e)
 
-[[カテゴリー未定]]
+[[DP]]
 
 ---
 - $dp1_i[j]$ を $(i,j)$ にたどりつけるか

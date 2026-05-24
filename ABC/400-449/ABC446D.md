@@ -1,9 +1,10 @@
 ---
 tags:
+  - DP
 ---
 [D - Max Straight](https://atcoder.jp/contests/abc446/tasks/abc446_d)
 
-[[カテゴリー未定]]
+[[DP]]
 
 ---
 うーん、ABC456Dと同じ感じ

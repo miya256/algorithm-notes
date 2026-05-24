@@ -1,9 +1,10 @@
 ---
 tags:
+  - DP
 ---
 [F - Diagonal Separation 2](https://atcoder.jp/contests/abc442/tasks/abc442_f)
 
-[[カテゴリー未定]]
+[[DP]]
 
 ---
 i番目まで白で、それより右を黒にする、最小コストという状態を持つ
