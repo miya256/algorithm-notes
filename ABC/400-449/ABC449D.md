@@ -4,7 +4,7 @@ tags:
 ---
 [D - Make Target 2](https://atcoder.jp/contests/abc449/tasks/abc449_d)
 
-[[差分テク]]
+[[範囲の合計はf(R)-f(L)]]
 
 ---
 左下を基準にしてもあんま恩恵がないので、xについて全探索

@@ -6,7 +6,7 @@ tags:
 [F - Interval Inversion Count](https://atcoder.jp/contests/abc452/tasks/abc452_f)
 
 [[尺取り法]]
-[[差分テク]]
+[[ちょうどKはK以下-K未満]]
 
 ---
 ## 転倒数
