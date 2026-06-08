@@ -1,7 +1,6 @@
 ---
 tags:
   - 遅延セグメント木
-  - LazySegmentTree
 ---
 [F - Merge Slimes 2](https://atcoder.jp/contests/abc455/tasks/abc455_f)
 
